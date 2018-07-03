@@ -1,0 +1,25 @@
+{
+  "name": "server-side",
+  "version": "1.0.0",
+  "description": "\"Server side of the example\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Customers"
+  ],
+  "author": "andreasagap",
+  "license": "Apache License 2.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "https": "^1.0.0",
+    "mongoose": "^5.1.7",
+    "querystring": "^0.2.0"
+  }
+}
